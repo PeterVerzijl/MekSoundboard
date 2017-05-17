@@ -42,4 +42,9 @@ bh_unicode_properties.cache
 # https://packagecontrol.io/packages/sublime-github
 GitHub.sublime-settings
 
+# Ignore all audio files
+*.mp3
+*.wav
+*.WAV
+
 # End of https://www.gitignore.io/api/processing,sublimetext
